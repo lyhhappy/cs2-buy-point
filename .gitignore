@@ -1,0 +1,6 @@
+# 安全围栏：这个仓库只上传 docs 文件夹（买点报告静态站）
+# cloudflared.exe、本地脚本、机器人代码/缓存/令牌等一律不上传
+/*
+!/docs/
+!/.gitignore
+!/.gitattributes
